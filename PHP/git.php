@@ -26,6 +26,7 @@ Attendees:
 				echo ', ';
 			}
 			echo $name;
+			$count++;
 	}
 ?>
 </div>
