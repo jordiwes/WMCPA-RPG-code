@@ -22,10 +22,11 @@ Attendees:
 <?php 
 	$count = 0;
 	foreach ($arrayOfNames as $name) {
-			if ($count++ > 0) {
+			if ($count > 0) {
 				echo ', ';
 			}
 			echo $name;
+			$count++;
 	}
 ?>
 </div>
