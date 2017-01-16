@@ -1,5 +1,5 @@
 <?php
- $arrayOfNames = array('Steph', 'Jim', 'Bruce');
+ $arrayOfNames = array('Steph', 'Jim', 'Bruce', 'Alan');
 ?>
 
 <html>
