@@ -6,6 +6,7 @@ Homework from Git presentation
 3. Clone my repo
     * Go to https://github.com/jordiwes/WMCPA-RPG-code, click "Clone or Download," and copy the clone URL ending in .git
     * Clone the repo ($ git clone *url_you_copied.git* )
+    * Go into the repo ($ cd WMCPA-RPG-code )
     * Create a branch ( $ git checkout –B freds-branch )
 5. Make a change to a file in the branch
 6. Add your changed file to the commit ($ git add -p ) 
