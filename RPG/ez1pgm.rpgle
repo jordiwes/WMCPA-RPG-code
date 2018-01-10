@@ -49,6 +49,7 @@
        EmpTime = empRec.EmpTime;
        EmpPic = empRec.EmpPic;
        EmpTags = empRec.EmpTags;
+	   // Comment by Bruce Guetzkow 2017-01-18
        return;
       /end-free
 
