@@ -25,7 +25,7 @@
        dcl-c EMP_BY_PARTIAL_TITLE const(3);
        dcl-c EMP_BY_PARTIAL_TAG const(4);
 
-       dcl-pr empByAny int(10);
+       dcl-pr empByAny int(12);
          flag int(10) value;
          search varchar(128:2) value;
          max int(10) value;
@@ -39,7 +39,7 @@
        dcl-pi *N;
        end-pi;
 
-       if emp_ok = *OFF;
+       if emp_ok = *ON;
          empRecs(1).EmpId = 1;
          empRecs(1).EmpYears = 10;
          empRecs(1).EmpName = 'Alan Seiden';
