@@ -39,7 +39,8 @@
      D  EmpTags                  124000A   varying(4)
       * vars
      D empRec          DS                  likeds(emp_t)
-      /free
+     
+     
        empRec = empById(EmpId);
        EmpYears = empRec.EmpYears;
        EmpName = empRec.EmpName;
@@ -51,5 +52,4 @@
        EmpTags = empRec.EmpTags;
 	   // Comment by Bruce Guetzkow 2017-01-18
        return;
-      /end-free
-
+     
