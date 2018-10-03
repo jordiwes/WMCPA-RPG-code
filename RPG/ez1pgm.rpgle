@@ -50,6 +50,7 @@
        EmpPic = empRec.EmpPic;
        EmpTags = empRec.EmpTags;
 	   // Comment by Bruce Guetzkow 2017-01-18
+	   // Hello Bruce, This is Kyle Law from Summit! 10-3-18
        return;
       /end-free
 
