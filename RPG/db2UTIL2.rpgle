@@ -11,7 +11,7 @@
        dcl-ds PaseAlloc_t qualified template;
          ilePtr POINTER;
          pasePtr UNS(20);
-         sz INT(10);
+         sz INT(15);
        end-ds;
        dcl-ds db2util_query_json_t qualified template;
          json_in_str UNS(10);
