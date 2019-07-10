@@ -15,3 +15,6 @@ Homework from Git presentation
 9. Go to https://github.com/jordiwes/WMCPA-RPG-code and create a pull request based on your commit!
 120.hi
 Larry was here
+This is Steph's change
+This is Anthon's Chance
+
