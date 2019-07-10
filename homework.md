@@ -11,7 +11,7 @@ Homework from Git presentation
 5. Make a change to a file in the branch
 6. Add your changed file to the commit ($ git add -p ) 
 7. Commit your change ( $ git commit –m “Fred’s change” )
-8. Push your branch ($ git push origin freds-branch)
+8. Push your branch ($ git push origin freds-branch) - maybe I can change this one ;-)
 9. Go to https://github.com/jordiwes/WMCPA-RPG-code and create a pull request based on your commit!
 120.hi
 This is a change to this file
