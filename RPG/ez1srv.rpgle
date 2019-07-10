@@ -5,6 +5,7 @@
 
       *+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
       * employee fake database
+      * another comment
       *+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
        dcl-s emp_ok ind inz(*OFF);
        dcl-ds empRecs likeds(emp_t) dim(EMP_MAX);
