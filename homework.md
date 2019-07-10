@@ -1,8 +1,8 @@
 Homework from Git presentation
 ============
 
-1. Sign up for a GitHub account
-2. Install a Git client on your PC
+X 1. Sign up for a GitHub account
+X 2. Install a Git client on your PC
 3. Clone my repo
     * Go to https://github.com/jordiwes/WMCPA-RPG-code, click "Clone or Download," and copy the clone URL ending in .git
     * Clone the repo ($ git clone *url_you_copied.git* )
