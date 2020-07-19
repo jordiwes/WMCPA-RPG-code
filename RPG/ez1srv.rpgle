@@ -11,7 +11,20 @@
 
        dcl-pr empInit;
        end-pr;
-
+        
+       *------------------------------------------------------------
+       * Test proc 
+       *-------------------------------------------------------------
+       dcl-proc test; 
+           dcl-pi test varchar( 100 ); 
+           endpi; 
+           dcl-s message varchar( 100 ); 
+           
+           message = 'Hi, Marina was here'; 
+           
+           return message; 
+           
+       end-proc; 
       *+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
       * employee by any 
       *   flag - type search
